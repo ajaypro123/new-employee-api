@@ -1,0 +1,22 @@
+{
+  "name": "new-employee-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaypro123/new-employee-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaypro123/new-employee-api/issues"
+  },
+  "homepage": "https://github.com/ajaypro123/new-employee-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
